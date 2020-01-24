@@ -5,6 +5,7 @@
 - https://www.youtube.com/playlist?list=PLX2HoWE32I8OCnumQmc9lcjnHIjAamIy6
 	- https://github.com/michaelcheng924/backbone_tutorial_blogroll_app
 - https://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3
+- https://www.youtube.com/playlist?list=PL4CUYg-6qxdF1bQC60TpId5bkCcoekf0j
 
 ## MongoDB
 
